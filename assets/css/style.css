@@ -13,6 +13,7 @@ body::before {
     position: fixed;
     background: #040404 url("../img/background/luffyblack.jpg") top right no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
     left: 0;
     right: 0;
     top: 0;
