@@ -11,7 +11,7 @@
 body::before {
     content: "";
     position: fixed;
-    background: #040404 url("../img/background/download-fotor-20230712114247.png") top right no-repeat;
+    background: #040404 url("../img/background/luffyblack.jpg") top right no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
